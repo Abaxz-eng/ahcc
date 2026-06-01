@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Animal healthcare">
+  <circle cx="48" cy="48" r="43" fill="#eaf7ef"/>
+  <path d="M26 54c0-14 10-25 23-25s23 11 23 25v12H26V54Z" fill="#fff" stroke="#19127a" stroke-width="4"/>
+  <circle cx="39" cy="48" r="3" fill="#162033"/>
+  <circle cx="57" cy="48" r="3" fill="#162033"/>
+  <path d="M34 29 25 20M62 29l9-9" stroke="#19127a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 55v16M40 63h16" stroke="#e32322" stroke-width="7" stroke-linecap="round"/>
+</svg>

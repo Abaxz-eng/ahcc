@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Day old chicks">
+  <circle cx="48" cy="48" r="43" fill="#fff7d8"/>
+  <path d="M28 57c0-13 9-24 22-24s22 11 22 24-10 22-22 22-22-9-22-22Z" fill="#ffd84d" stroke="#19127a" stroke-width="4"/>
+  <circle cx="55" cy="50" r="3" fill="#162033"/>
+  <path d="M69 54l12 5-12 5Z" fill="#f47a20"/>
+  <path d="M38 35c2-10 12-13 18-5" fill="none" stroke="#f47a20" stroke-width="5" stroke-linecap="round"/>
+  <path d="M43 78v7M57 78v7" stroke="#f47a20" stroke-width="4" stroke-linecap="round"/>
+</svg>
